@@ -1,0 +1,24 @@
+ody {
+	
+	background-color: #42afe8;
+}
+h1 {
+    text-align: center;
+    color:white;
+    margin-top:5em;
+}
+
+#results{
+    margin-top:2em;
+}
+#calculator{
+    text-align: center;
+    
+}
+#buttons{
+    padding-top:2em;
+}
+
+#txtBox {
+	margin-top: 1em;
+	height: 3em;}
